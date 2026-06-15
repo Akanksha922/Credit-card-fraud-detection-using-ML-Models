@@ -1,6 +1,5 @@
 # Credit-card-fraud-detection-using-ML-Models
 
-# Fraud Detection Pipeline  
 ## End-to-End Machine Learning Workflow
 
 ---
